@@ -1,0 +1,2 @@
+AI refers to the ability of machines to imitate human intelligence. Such systems can learn, 
+detect patterns, and make decisions, often without much help from people.
